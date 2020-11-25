@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '8302'
     url: http://www.gutenberg.org/2009/agents/8302
     wikipedia: http://en.wikipedia.org/wiki/Frank_Kelly_Freas
+covers:
+- cover_type: archival
+  image_path: 63716-h/images/cover.jpg
 creator:
   author:
     agent_name: Sheridan, Max C.
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '52564'
     url: http://www.gutenberg.org/2009/agents/52564
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63716#The-Time-Techs-of-Kra
 gutenberg_issued: '2020-11-11'
 gutenberg_type: Text
 identifiers:
